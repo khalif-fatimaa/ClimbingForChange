@@ -1,5 +1,7 @@
 # ClimbingForChange
+## 📸 Application Preview
 
+![ClimbingForChange Dashboard](./dashboard.png)
 ## Overview
 
 ClimbingForChange is a full-stack web application designed to manage and track event-based activities, including participants, teams, and progress tracking.
